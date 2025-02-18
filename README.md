@@ -59,5 +59,5 @@ Este proyecto está bajo la licencia **MIT**. Para más detalles, consulta el ar
 
 ---
 
-💡 Desarrollado por [Tu Nombre](https://github.com/tu-usuario) 🚀
+💡 Desarrollado por [Fer](https://https://github.com/fernandofedora) 🚀
 
